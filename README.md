@@ -12,6 +12,7 @@ Of course, the game [OMORI](https://store.steampowered.com/app/1150690) (legally
 3. Set you discord bot `TOKEN` on `main.py`.
 4. Set channel ID to listen for events on main.py line 41.
 5. Run the bot by `py main.py`
+6. Make sure the game window is actively focused or else it will not work.
 
 
 ## Controls
