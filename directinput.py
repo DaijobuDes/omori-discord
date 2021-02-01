@@ -2,6 +2,7 @@
 # source to this solution and code:
 # http://stackoverflow.com/questions/14489013/simulate-python-keypresses-for-controlling-a-game
 # http://www.gamespp.com/directx/directInputKeyboardScanCodes.html
+# https://gist.github.com/tracend/912308 but in C
 
 import ctypes
 import time
@@ -12,6 +13,7 @@ Q = 0x10
 W = 0x11
 Z = 0x2C
 X = 0x2D
+LShift = 0x2A
 UpArrow = 0xC8
 DownArrow = 0xD0
 LeftArrow = 0xCB
